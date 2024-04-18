@@ -3,6 +3,7 @@
 Music Player Control Panel Layout Documentation
 Description:
 The "Music Player Control Panel" layout represents an interface for controlling the playback of music tracks. It is designed to provide users with a convenient and intuitive way to manage music playback.
+
 Screeshots:
 ![image](https://github.com/dqdynamo/flutter_ass3/assets/147186555/5729825f-f870-43dd-bfeb-921bb0c4fa62)
 
